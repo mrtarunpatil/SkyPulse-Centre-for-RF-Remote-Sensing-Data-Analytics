@@ -1,68 +1,114 @@
 # 🌍 SkyPulse Centre for RF, Remote Sensing & Data Analytics
 
-> **Advancing Hyperlocal Environmental Intelligence through RF Engineering, Satellite Remote Sensing, and Data-Driven Atmospheric Analysis**
+<p align="center">
+  <img src="images/skypulse-banner.png" width="100%">
+</p>
 
-![Status](https://img.shields.io/badge/Status-Active-success)
-![Established](https://img.shields.io/badge/Established-Oct%202025-blue)
-![Funding](https://img.shields.io/badge/IEEE%20EPICS-₹7.25L-orange)
-![Location](https://img.shields.io/badge/Bengaluru-India-green)
+<p align="center">
+  <b>Advancing Hyperlocal Environmental Intelligence through RF Engineering, Satellite Remote Sensing, and Data-Driven Atmospheric Analysis</b>
+</p>
 
----
-
-## 🌟 Overview
-
-**SkyPulse Research Centre** is a multidisciplinary research centre established in **October 2025** at **BMS Institute of Technology & Management (BMSIT&M), Bengaluru**. The centre operates at the intersection of **Radio Frequency (RF) Engineering**, **Satellite Remote Sensing**, **Embedded Systems**, **Environmental Monitoring**, and **Data Analytics**.
-
-The centre adopts an end-to-end systems approach, encompassing:
-
-* 📡 RF Hardware Design & Prototyping
-* 🛰️ Satellite Signal Reception & Decoding
-* 🌦️ Hyperlocal Weather Monitoring
-* 📊 Environmental Data Analytics
-* 🤖 Machine Learning for Atmospheric Intelligence
-* 🌍 Urban Climate Research & Early Warning Systems
-
-The initiative is funded through the **IEEE EPICS (Engineering Projects in Community Service)** programme with a sanctioned grant of **₹7,25,000/-** awarded in **May 2025**.
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Active-success">
+  <img src="https://img.shields.io/badge/Established-Oct%202025-blue">
+  <img src="https://img.shields.io/badge/Total%20Funding-₹15.25L-orange">
+  <img src="https://img.shields.io/badge/Location-Bengaluru-green">
+  <img src="https://img.shields.io/badge/IEEE%20EPICS-Funded-red">
+</p>
 
 ---
 
-## 🎯 Research Focus Areas
+# 🌟 About SkyPulse
 
-### 🌦️ Urban Microclimate Nowcasting
+SkyPulse is a multidisciplinary research centre established at **BMS Institute of Technology & Management (BMSIT&M), Bengaluru**, dedicated to advancing research in:
 
-Development of hyperlocal weather prediction models for the Bengaluru metropolitan region (~45 km radius) using environmental sensing and satellite-derived observations.
+📡 Radio Frequency Engineering
 
-### 🛰️ Satellite Signal Reception & Processing
+🛰️ Satellite Remote Sensing
 
-Reception, decoding, and analysis of meteorological satellite data from platforms such as:
+🌦️ Atmospheric Science
+
+📊 Environmental Data Analytics
+
+🤖 Artificial Intelligence for Climate Applications
+
+🌍 Urban Climate Intelligence
+
+The centre integrates hardware development, environmental sensing, satellite data acquisition, and advanced analytics to build actionable intelligence for climate resilience and sustainable urban development.
+
+---
+
+# 💰 Funding
+
+SkyPulse is supported through a combination of external and institutional funding.
+
+| Funding Agency                                         | Amount         |
+| ------------------------------------------------------ | -------------- |
+| IEEE EPICS (Engineering Projects in Community Service) | ₹7,25,000      |
+| BMS Institute of Technology & Management               | ₹8,00,000      |
+| **Total Funding**                                      | **₹15,25,000** |
+
+The project was initially sanctioned under the IEEE EPICS programme in May 2025 and subsequently supported through institutional infrastructure and research funding.
+
+---
+
+# 🎯 Research Focus Areas
+
+## 🌦️ Urban Microclimate Nowcasting
+
+Development of hyperlocal weather prediction systems covering the Bengaluru metropolitan region (~45 km radius) through integration of:
+
+* Ground-based sensing
+* Satellite observations
+* Environmental analytics
+* AI-assisted forecasting
+
+---
+
+## 🛰️ Satellite Signal Reception & Processing
+
+Reception and processing of meteorological satellite signals including:
 
 * INSAT Series
 * NOAA Series
 * Meteor-M Series
-* Future X-band Earth Observation Satellites
+* Future X-Band Earth Observation Missions
 
-### 📶 RF Propagation Studies
+Applications include:
 
-Experimental investigations involving:
+* Cloud Monitoring
+* Rainfall Assessment
+* Environmental Mapping
+* Weather Intelligence
+
+---
+
+## 📶 RF Propagation Studies
+
+Research areas include:
 
 * Atmospheric attenuation
-* Rain fade effects
+* Rain fade analysis
 * Signal variability
-* Environmental impacts on RF links
+* Weather impacts on RF systems
 * Satellite communication performance
 
-### 🔧 Embedded RF & Sensing Systems
+---
 
-Design and validation of:
+## 🔧 Embedded RF & Sensing Systems
 
-* GSM-enabled environmental monitoring nodes
-* Low-power embedded electronics
-* Environmental sensing platforms
-* RF communication subsystems
+Design and deployment of:
 
-### 🌍 Climate Intelligence & Early Warning Systems
+* GSM-based environmental sensing nodes
+* Embedded monitoring systems
+* RF communication platforms
+* Distributed sensing infrastructure
 
-Generation of validated environmental datasets supporting:
+---
+
+## 🌍 Climate Intelligence & Early Warning Systems
+
+Development of environmental datasets supporting:
 
 * Flood Risk Assessment
 * Urban Heat Island Analysis
@@ -72,148 +118,147 @@ Generation of validated environmental datasets supporting:
 
 ---
 
-## 🔬 Centre Infrastructure
+# 🔬 Research Infrastructure
 
-| Equipment                                        | Purpose                                   |
-| ------------------------------------------------ | ----------------------------------------- |
-| 📡 1.8 m L-band Parabolic Dish + Antenna Tracker | Geostationary Weather Satellite Reception |
-| 📻 Software Defined Radio (RTL-SDR / Airspy)     | X-band & L-band Signal Acquisition        |
-| 📈 Vector Network Analyser (VNA)                 | RF Characterisation & Antenna Testing     |
-| 📶 GSM Communication Modules                     | Sensor Network Connectivity               |
-| 🔥 RF Soldering & Prototyping Workstation        | RF Hardware Fabrication                   |
-| 🖨️ 3D Printer (256 mm³ Build Volume)            | Rapid Prototyping & Enclosures            |
-| 💻 GPU Workstation + NAS *(Expected 2026)*       | AI/ML Training & Data Storage             |
+| Equipment                                  | Purpose                       |
+| ------------------------------------------ | ----------------------------- |
+| 📡 1.8m Parabolic Dish + Antenna Tracker   | Weather Satellite Reception   |
+| 📻 SDR Receivers (RTL-SDR / Airspy)        | Signal Acquisition            |
+| 📈 Vector Network Analyzer (VNA)           | RF Testing & Characterisation |
+| 📶 GSM Communication Modules               | Sensor Connectivity           |
+| 🔥 RF Prototyping Workstation              | Hardware Fabrication          |
+| 🖨️ 3D Printer                             | Rapid Prototyping             |
+| 💻 GPU Workstation + NAS *(Expected 2026)* | AI & Data Analytics           |
 
 ---
 
-## 🌐 GSM-Based Environmental Sensor Network
+# 🌐 GSM Environmental Monitoring Network
 
-A distributed network of **GSM-enabled environmental monitoring stations** deployed across Bengaluru to capture urban-scale atmospheric variability and provide real-time environmental intelligence.
+A distributed network of GSM-enabled atmospheric monitoring stations deployed across Bengaluru.
 
-### 📊 Parameters Monitored
+## 📊 Parameters Monitored
 
-* 🌡️ Temperature
-* 💧 Relative Humidity
-* 📈 Atmospheric Pressure
-* 🌫️ PM1.0
-* 🌫️ PM2.5
-* 🌫️ PM10
-* ☀️ UV Radiation
-* 🧪 Air Quality Indicators
-* 🌬️ Wind Speed *(Planned)*
-* 🧭 Wind Direction *(Planned)*
+✅ Temperature
 
-### 🔄 Data Flow
+✅ Relative Humidity
+
+✅ Atmospheric Pressure
+
+✅ PM1.0
+
+✅ PM2.5
+
+✅ PM10
+
+✅ UV Radiation
+
+✅ Air Quality Indicators
+
+🔄 Wind Speed
+
+🔄 Wind Direction
+
+---
+
+## 🔄 System Architecture
 
 ```text
 Environmental Sensor Node
             ↓
-      GSM Network
+       GSM Network
             ↓
-      Cloud Server
+       Cloud Server
             ↓
-        Database
+         Database
             ↓
- Dashboard & Analytics
+  Dashboard & Analytics
             ↓
  Atmospheric Models
 ```
 
-🏆 **Showcased at India Mobile Congress (IMC) 2025**
+🏆 Showcased at **India Mobile Congress (IMC) 2025**
 
 ---
 
-## 🛰️ Satellite Reception Pipeline
+# 🛰️ Satellite Reception Pipeline
 
 ```text
-🛰️ Geostationary Weather Satellite
+Geostationary Weather Satellite
                 ↓
-📡 1.8m Parabolic Dish + LNB
+     1.8m Dish + LNB
                 ↓
-📻 SDR Receiver (RTL-SDR / Airspy)
+      SDR Receiver
                 ↓
-⚙️ GNU Radio / SatDump Processing
+ GNU Radio / SatDump
                 ↓
-🖼️ Decoded Meteorological Products
+Decoded Meteorological Data
                 ↓
-🌦️ Nowcasting & Environmental Models
+   Analytics & Models
 ```
 
 ---
 
-## 📂 Research Domains
+# 📂 Research Domains
 
 ### 📡 RF Engineering
 
-* Antenna Design & Characterisation
-* RF Measurement & Testing
+* Antenna Design
+* RF Measurements
 * Propagation Studies
 * SDR Applications
 
 ### 🛰️ Remote Sensing
 
-* Meteorological Satellite Data Processing
+* Satellite Data Processing
 * Cloud Classification
-* Atmospheric Monitoring
 * Environmental Mapping
+* Atmospheric Monitoring
 
 ### 🌦️ Atmospheric Science
 
 * Weather Monitoring
-* Urban Climate Studies
-* Air Quality Assessment
+* Urban Climate Research
+* Air Quality Studies
 * Environmental Intelligence
 
-### 🤖 Data Science & AI
+### 🤖 AI & Data Analytics
 
-* Time-Series Analysis
-* Environmental Forecasting
+* Time-Series Forecasting
+* Environmental Analytics
 * Machine Learning Models
-* Climate Analytics
+* Climate Intelligence Systems
 
 ---
 
-## 🤝 Collaborations
+# 🤝 Collaborations
 
-| Partner                                    | Contribution                               |
-| ------------------------------------------ | ------------------------------------------ |
-| IEEE EPICS in IEEE                         | Funding Support (₹7.25 Lakhs)              |
-| IEEE Antennas & Propagation Society (AP-S) | Antenna Design & RF Mentorship             |
-| IEEE Communications Society (ComSoc)       | Communication Systems Expertise            |
-| Bradley University, USA                    | Anechoic Chamber & EM Measurement Guidance |
-| Green Circle NGO, Bengaluru                | Community Outreach & Field Engagement      |
-
----
-
-## 📋 Key Outcomes
-
-### ✅ Completed
-
-* Functional GSM Environmental Monitoring Node
-* Environmental Monitoring Dashboard
-* IMC 2025 Technology Demonstration
-* Initial Urban Atmospheric Dataset
-
-### 🔄 Ongoing
-
-* L-band Satellite Ground Station
-* X-band Satellite Reception System
-* Hyperlocal Weather Nowcasting Models
-* RF Propagation Characterisation Studies
-* Climate Analytics Framework
-
-### 🚀 Future Goals
-
-* Urban Heat Island Mapping
-* Flood Early Warning Framework
-* AI-Assisted Environmental Intelligence
-* Student Research Publications
-* Open Environmental Data Platform
-* Regional Climate Decision Support Tools
+| Partner                                    | Contribution                    |
+| ------------------------------------------ | ------------------------------- |
+| IEEE EPICS                                 | Project Funding                 |
+| BMS Institute of Technology & Management   | Institutional Support           |
+| IEEE Antennas & Propagation Society (AP-S) | Technical Mentorship            |
+| IEEE Communications Society (ComSoc)       | Communication Systems Expertise |
+| Bradley University, USA                    | RF Measurement Guidance         |
+| Green Circle NGO                           | Community Outreach              |
 
 ---
 
-## 👥 Team
+# 📈 Project Status
+
+| Activity                  | Status         |
+| ------------------------- | -------------- |
+| GSM Sensor Network        | ✅ Active       |
+| Environmental Dashboard   | ✅ Active       |
+| IMC 2025 Demonstration    | ✅ Completed    |
+| L-Band Ground Station     | 🔄 Ongoing     |
+| X-Band Reception System   | 🔄 Ongoing     |
+| Hyperlocal Weather Models | 🔄 Ongoing     |
+| AI-Based Forecasting      | 🔄 Development |
+| GPU Facility              | ⏳ Planned 2026 |
+
+---
+
+# 👥 Research Team
 
 | Name              | Role                   |
 | ----------------- | ---------------------- |
@@ -225,7 +270,7 @@ Environmental Sensor Node
 
 ---
 
-## 🏫 Institution
+# 🏫 Institution
 
 **BMS Institute of Technology & Management (BMSIT&M)**
 
@@ -235,29 +280,21 @@ Karnataka, India 🇮🇳
 
 ---
 
-## 📅 Timeline
+# 📅 Timeline
 
-| Milestone                         | Date          |
-| --------------------------------- | ------------- |
-| 🚀 EPICS Proposal Submitted       | 01 May 2025   |
-| 💰 EPICS Funding Sanctioned       | May 2025      |
-| 🏢 Centre Established             | October 2025  |
-| 📡 IMC Technology Demonstration   | 2025          |
-| 💻 GPU Workstation & NAS Facility | Expected 2026 |
-
----
-
-## 📈 Vision
-
-> To build a world-class research ecosystem that integrates RF engineering, satellite remote sensing, environmental sensing, and data analytics to generate actionable intelligence for climate resilience, disaster preparedness, and sustainable urban development.
+| Milestone                      | Date          |
+| ------------------------------ | ------------- |
+| EPICS Proposal Submitted       | 01 May 2025   |
+| IEEE EPICS Funding Approved    | May 2025      |
+| Institutional Support Approved | 2025          |
+| SkyPulse Established           | October 2025  |
+| IMC Technology Showcase        | 2025          |
+| GPU & NAS Facility             | Expected 2026 |
 
 ---
 
-## 📸 Gallery
+# 📸 Gallery
 
-Add project images here:
-
-```html
 <p align="center">
   <img src="images/lab.jpg" width="45%">
   <img src="images/dish.jpg" width="45%">
@@ -267,21 +304,27 @@ Add project images here:
   <img src="images/node.jpg" width="45%">
   <img src="images/dashboard.jpg" width="45%">
 </p>
-```
 
 ---
 
-## 📬 Contact
+# 🚀 Vision
 
-For research collaborations, technical discussions, or project enquiries:
+> To establish a globally recognised research ecosystem for RF engineering, remote sensing, environmental intelligence, and climate analytics that contributes to resilient and sustainable cities.
+
+---
+
+# 📬 Contact
+
+For collaborations, technical discussions, student involvement, and research partnerships:
 
 📧 **[tarunpatil018@gmail.com](mailto:tarunpatil018@gmail.com)**
 
-🏫 **SkyPulse Research Centre**
+🏫 SkyPulse Centre for RF, Remote Sensing & Data Analytics
 BMS Institute of Technology & Management (BMSIT&M)
-Yelahanka, Bengaluru – 560119
-Karnataka, India 🇮🇳
+Bengaluru, Karnataka, India
 
 ---
 
-### ⭐ Supporting Research, Innovation, and Environmental Intelligence for a Sustainable Future.
+<p align="center">
+⭐ Supporting Research • Innovation • Climate Intelligence • Sustainable Development ⭐
+</p>
